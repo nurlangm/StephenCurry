@@ -1,0 +1,37 @@
+.image{
+    border: 3px solid black;
+    background-image:url(https://cdn.nba.com/manage/2021/08/GettyImages-1232154862-scaled-e1628017591660-784x510.jpg);
+    width: 206px;
+    height:200px;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: 160%;
+    margin: 6px;
+    margin-left: 16px;
+    margin-bottom: -194px;
+    border-radius: 200px;
+    
+}
+.Curry{
+    margin-bottom:100px;
+    margin-right:100px;
+    margin-left: 20%;
+    
+}
+.Metn1{
+    margin-top: -1px;
+    margin-right: 660px;
+    border:dashed black;
+    border-top: black;
+  border-bottom: black;
+    
+
+}
+#work,#other,#edu,#lang,#it{
+    color: rgb(44, 172, 172);
+}
+.Metn2{
+    margin-top: -610px;
+    margin-bottom: 300px;
+    margin-left: 852px;
+}
